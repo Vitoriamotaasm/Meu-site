@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Vitória Mota</title>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Sobre mim</a>
+                </li>
+                <li>
+                    <a href="project.html">Projetos</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contato</a>
+                </li>
+            </ul>
+        </nav>
+    
+        <header>
+            <div class="center">
+                <img src="imagem/minhafoto.jpg" alt="minha foto">
+            </div>
+            <h1>Vitória Mota</h1>
+            <h2>Desenvolvedora de Software</h2>
+        </header>
+    
+        <main>
+            <section>
+            <h3>Sobre mim</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo nesciunt impedit, odit ipsum laudantium dolor saepe ratione rem, sed corporis deleniti exercitationem aperiam nihil magni, vel ea autem accusamus! Consequatur!</p>
+            </section>
+            <section>
+                <h3>Formação</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo nesciunt impedit, odit ipsum laudantium dolor saepe ratione rem, sed corporis deleniti exercitationem aperiam nihil magni, vel ea autem accusamus! Consequatur!</p>
+                </section>
+                <section>
+                    <h3>Cursos</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo nesciunt impedit, odit ipsum laudantium dolor saepe ratione rem, sed corporis deleniti exercitationem aperiam nihil magni, vel ea autem accusamus! Consequatur!</p>
+                    </section>
+        </main>
+        <footer>
+            <a href="https://github.com/Vitoriamotaasm" target="_blank" rel="noopener noreferrer">
+                <img src="imagem/github.svg" alt="">
+                <p>Github</p>
+            </a>
+            <a href="https://www.linkedin.com/in/vit%C3%B3ria-mota-9bb63a292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
+                <img src="imagem/linkedin.svg" alt="">
+                <p>Linkedin</p>
+            </a>
+            <a href="https://www.instagram.com/vitoriamotaasm/" target="_blank" rel="noopener noreferrer">
+                <img src="imagem/instagram.svg" alt="">
+                <p>Instagram</p>
+            </a>
+        </footer>
+    </div>
+   
+</body>
+</html>
